@@ -1,6 +1,4 @@
-# Build a semantic search with Next.js, Neon and Inngest
-
-_TODO: video thumbnail_
+[![YouTube video thumbnail](./readme-assets/youtube-video-thumbnail.png)](https://youtu.be/priDfWZ6xmE)
 
 ## What we'll build
 
